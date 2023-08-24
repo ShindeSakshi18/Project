@@ -5,6 +5,8 @@ public class Test {
 		Info i = new Info();
 		Employee p = i.setEmp();
 		i.getEmp(p);
+		
+		//i.getEmp(i.setEmp());
 	}
 
 }

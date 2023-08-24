@@ -7,6 +7,9 @@ public class Info  {
 	}
 	
 	public void getEmp(Employee e) {
+		System.out.println(e.getId());
+		System.out.println(e.getName());
+		System.out.println(e.getSalary());
 		
 	}
 		
